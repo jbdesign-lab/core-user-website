@@ -41,7 +41,6 @@ export default defineConfig({
       },
       components: {
         SiteTitle: './src/components/MyHeader.astro',
-        ThemeSelect: './src/components/MyThemeSelect.astro',
         Head: './src/components/HeadWithOGImage.astro',
         PageTitle: './src/components/TitleWithBannerImage.astro',
       },
